@@ -7,7 +7,7 @@
     "sass:build": "sass --no-source-map scss:css",
     "sass:watch": "sass --no-source-map --watch scss:css"
   },
-  "author": "Dharanitharan",
+  "author": "Thilaga",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.3.1",
